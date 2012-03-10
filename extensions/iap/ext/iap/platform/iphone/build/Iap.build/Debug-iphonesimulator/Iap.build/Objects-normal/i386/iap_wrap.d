@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/ruby/iap_wrap.c \
+  /Users/lucascampbell-rossen/rhodes/iap_demo/extensions/iap/ext/iap/platform/iphone/../../shared/ruby/iap_wrap.c \
   /Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/ruby/include/ruby.h \
   /Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/ruby/include/ruby/ruby.h \
   /Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/ruby/iphone/ruby/config.h \
