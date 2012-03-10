@@ -1,4 +1,4 @@
-#sdk: "/Users/lucascampbell-rossen/rhomobile/rhodes"
+sdk: "/Users/lucascampbell-rossen/rhomobile/rhodes"
 sdkversion: 3.3.3
 name: iap_demo
 version: 1.0
@@ -7,7 +7,7 @@ build: debug
 bbver: 4.6
 applog: rholog.txt
 iphone:
-  configuration: Release
+  configuration: Debug
   sdk: iphonesimulator5.0
   provisionprofile:
   codesignidentity:
@@ -21,4 +21,4 @@ symbian:
 android:
   version: 2.1
 
-extensions: ["json", "another-extension"]
+extensions: ["json", "another-extension", "iap"]
