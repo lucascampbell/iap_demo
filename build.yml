@@ -1,0 +1,24 @@
+#sdk: "/Users/lucascampbell-rossen/rhomobile/rhodes"
+sdkversion: 3.3.3
+name: iap_demo
+version: 1.0
+vendor: rhomobile
+build: debug
+bbver: 4.6
+applog: rholog.txt
+iphone:
+  configuration: Release
+  sdk: iphonesimulator5.0
+  provisionprofile:
+  codesignidentity:
+  entitlements:
+  BundleIdentifier: com.rhomobile.iapdemo
+  BundleURLScheme: iapdemo
+wp:
+  productid: '0012ed80-4c98-012f-f264-70cd60f27196'
+symbian:
+  uid: '0xec923168'
+android:
+  version: 2.1
+
+extensions: ["json", "another-extension"]

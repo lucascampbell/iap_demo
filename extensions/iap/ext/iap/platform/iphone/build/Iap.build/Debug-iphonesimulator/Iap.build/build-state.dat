@@ -1,0 +1,150 @@
+TIap
+v4
+r1
+cCheck dependencies
+cProcessPCH /var/folders/Ps/PsA+tIzSEjyYOe-oFLQWNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Iap_Prefix-atneptiuzuabipdjayphvadvjqbg/Iap_Prefix.pch.pth Iap_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/Ps/PsA+tIzSEjyYOe-oFLQWNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Iap_Prefix-cviiewkheqpmfneekkwssxgafuwg/Iap_Prefix.pch.pth Iap_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap_wrap.o /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/ruby/iap_wrap.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap-92BA02890981D982.o /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/src/iap.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/Iap-7995D4D30CF3596C.o /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator/libIap.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004EA1A75C0000000000000110
+t1319216988
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F28F0000000000001534
+t1316156047
+s5428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/ruby/iap_wrap.c
+c000000004F556185000000000000E87E
+t1330995589
+s59518
+
+N/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/src/iap.c
+c000000004F4BFCF60000000000000182
+t1330380022
+s386
+
+N/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m
+c000000004F59669500000000000026F4
+t1331259029
+s9972
+
+N/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Iap_Prefix.pch
+c000000004F4BFCF600000000000000BC
+t1330380022
+s188
+i<Foundation/Foundation.h>
+
+N/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator/libIap.a
+t2
+s0
+
+N/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/Iap-7995D4D30CF3596C.o
+t2
+s0
+
+N/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/Iap.LinkFileList
+c000000004F5A8A0700000000000001EF
+t1331333639
+s495
+
+N/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap-92BA02890981D982.o
+t2
+s0
+
+N/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap_wrap.o
+t2
+s0
+
+N/var/folders/Ps/PsA+tIzSEjyYOe-oFLQWNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Iap_Prefix-atneptiuzuabipdjayphvadvjqbg/Iap_Prefix.pch.pth
+t1330382483
+s72796
+
+N/var/folders/Ps/PsA+tIzSEjyYOe-oFLQWNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Iap_Prefix-cviiewkheqpmfneekkwssxgafuwg/Iap_Prefix.pch.pth
+t1330382485
+s2462396
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3a408487c10ab541^6363a287c10ab541^---0#1#0#--18"Check dependencies36"CCD7C37C-8618-4C59-A953-EA9EEA43E86D-
+
+CCompileC build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/Iap-7995D4D30CF3596C.o /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353026439.644832
+e353026439.729404
+r1
+xCompileC
+xbuild/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/Iap-7995D4D30CF3596C.o
+x/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m:29:1: warning: control may reach end of non-void function [-Wreturn-type,3]
+o }
+o ^
+o/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m:50:49: warning: 'NSArray' may not respond to 'firstObject' [3]
+o             upgradeProduct = [products count] == 1 ? [[products firstObject] retain] : nil;
+o                                                        ^
+o/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m:187:19: warning: unused variable 'userInfo' [-Wunused-variable,12]
+o     NSDictionary *userInfo = [NSDictionary dictionaryWithObjectsAndKeys:transaction, @"transaction" , nil];
+o                   ^
+o3 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m8255a587c10ab541^aebaba87c10ab541^-791"/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m:29:1: warning: control may reach end of non-void function [-Wreturn-type,3] } ^/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m:50:49: warning: 'NSArray' may not respond to 'firstObject' [3]             upgradeProduct = [products count] == 1 ? [[products firstObject] retain] : nil;                                                        ^/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m:187:19: warning: unused variable 'userInfo' [-Wunused-variable,12]     NSDictionary *userInfo = [NSDictionary dictionaryWithObjectsAndKeys:transaction, @"transaction" , nil];                   ^3 warnings generated.3(21%IDEActivityLogMessage2@42"Control may reach end of non-void function-353026439#0#168#-1#-23%DVTTextDocumentLocation3@107"file://localhost/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m0000000000000000^28#0#28#0#18446744073709551615#0#14"Semantic Issue--2@42"'NSArray' may not respond to 'firstObject'-353026439#174#155#-1#-3@107"file://localhost/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m0000000000000000^49#48#49#48#18446744073709551615#0#14"Semantic Issue--2@26"Unused variable 'userInfo'-353026439#480#159#-1#-3@107"file://localhost/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m0000000000000000^186#18#186#18#18446744073709551615#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@107"file://localhost/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m0000000000000000^3425"CompileC build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/Iap-7995D4D30CF3596C.o Classes/Iap.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone    setenv LANG en_US.US-ASCII    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-generated-files.hmap -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-own-target-headers.hmap -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-all-target-headers.hmap -iquote /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-project-headers.hmap -iquote../shared/ruby/iphone -iquote../shared/ruby/include -iquote../shared/curl/include -iquote../shared -iquote../shared/syncengine -iquote../shared/logging -iquote../shared/common -iquoterhoextlib -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator/include -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/common -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/rubyext -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/ruby/include -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/ruby/iphone -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/DerivedSources/i386 -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/DerivedSources -F/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator -include /var/folders/Ps/PsA+tIzSEjyYOe-oFLQWNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Iap_Prefix-cviiewkheqpmfneekkwssxgafuwg/Iap_Prefix.pch -MMD -MT dependencies -MF /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/Iap-7995D4D30CF3596C.d -c /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/Classes/Iap.m -o /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/Iap-7995D4D30CF3596C.o36"8376F8B8-01E8-4B1E-A048-F4F00B7BBD9A-
+
+CCompileC build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap-92BA02890981D982.o /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/src/iap.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s353026439.644787
+e353026439.658371
+r1
+xCompileC
+xbuild/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap-92BA02890981D982.o
+x/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/src/iap.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/src/iap.c3350a587c10ab541^ad8aa887c10ab541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/src/iap.c0000000000000000^3216"CompileC build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap-92BA02890981D982.o ../../shared/src/iap.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone    setenv LANG en_US.US-ASCII    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-generated-files.hmap -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-own-target-headers.hmap -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-all-target-headers.hmap -iquote /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-project-headers.hmap -iquote../shared/ruby/iphone -iquote../shared/ruby/include -iquote../shared/curl/include -iquote../shared -iquote../shared/syncengine -iquote../shared/logging -iquote../shared/common -iquoterhoextlib -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator/include -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/common -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/rubyext -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/ruby/include -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/ruby/iphone -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/DerivedSources/i386 -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/DerivedSources -F/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator -include /var/folders/Ps/PsA+tIzSEjyYOe-oFLQWNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Iap_Prefix-atneptiuzuabipdjayphvadvjqbg/Iap_Prefix.pch -MMD -MT dependencies -MF /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap-92BA02890981D982.d -c /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/src/iap.c -o /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap-92BA02890981D982.o36"78DB8DA0-A3BC-490E-B14E-43B9AE5C0112-
+
+CCompileC build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap_wrap.o /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/ruby/iap_wrap.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s353026439.644192
+e353026439.693031
+r1
+xCompileC
+xbuild/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap_wrap.o
+x/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/ruby/iap_wrap.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/ruby/iap_wrap.c4032a587c10ab541^096db187c10ab541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/ruby/iap_wrap.c0000000000000000^3192"CompileC build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap_wrap.o ../../shared/ruby/iap_wrap.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone    setenv LANG en_US.US-ASCII    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-generated-files.hmap -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-own-target-headers.hmap -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-all-target-headers.hmap -iquote /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Iap-project-headers.hmap -iquote../shared/ruby/iphone -iquote../shared/ruby/include -iquote../shared/curl/include -iquote../shared -iquote../shared/syncengine -iquote../shared/logging -iquote../shared/common -iquoterhoextlib -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator/include -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/common -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/rubyext -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/ruby/include -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared/ruby/iphone -I/Users/lucascampbell-rossen/rhomobile/rhodes/platform/shared -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/DerivedSources/i386 -I/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/DerivedSources -F/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator -include /var/folders/Ps/PsA+tIzSEjyYOe-oFLQWNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Iap_Prefix-atneptiuzuabipdjayphvadvjqbg/Iap_Prefix.pch -MMD -MT dependencies -MF /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap_wrap.d -c /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/../../shared/ruby/iap_wrap.c -o /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/iap_wrap.o36"F7972C38-C6C9-4328-9EEB-F47A19C0CB6A-
+
+CLibtool /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator/libIap.a normal i386
+s353026439.730665
+e353026439.738926
+r1
+xLibtool
+x/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator/libIap.a
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Libtool build/Debug-iphonesimulator/libIap.a normal i386b150bb87c10ab541^357ebd87c10ab541^---0#0#0#--817"Libtool build/Debug-iphonesimulator/libIap.a normal i386    cd /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator -filelist /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Iap.build/Debug-iphonesimulator/Iap.build/Objects-normal/i386/Iap.LinkFileList -framework Foundation -framework UIKit -o /Users/lucascampbell-rossen/rhodes/Fit/extensions/iap/ext/iap/platform/iphone/build/Debug-iphonesimulator/libIap.a36"E9EE885C-7E71-43DB-8EE8-CD93ABD2FAB8-
+
+CProcessPCH /var/folders/Ps/PsA+tIzSEjyYOe-oFLQWNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Iap_Prefix-atneptiuzuabipdjayphvadvjqbg/Iap_Prefix.pch.pth Iap_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/Ps/PsA+tIzSEjyYOe-oFLQWNk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Iap_Prefix-cviiewkheqpmfneekkwssxgafuwg/Iap_Prefix.pch.pth Iap_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+

@@ -1,0 +1,17 @@
+#!/bin/sh
+
+
+if [ "$RHO_PLATFORM" = "android" ]; then
+
+cd iap/platform/android
+rake --trace
+
+elif [ "$RHO_PLATFORM" = "iphone" ]; then
+
+cd iap/platform/iphone
+rake --trace
+
+fi
+
+
+
