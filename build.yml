@@ -1,4 +1,4 @@
-sdk: "/Users/lucascampbell-rossen/rhomobile/rhodes"
+#sdk: sdk_path
 sdkversion: 3.3.3
 name: iap_demo
 version: 1.0
@@ -8,13 +8,13 @@ bbver: 4.6
 applog: rholog.txt
 iphone:
   configuration: Debug
-  sdk: iphonesimulator5.0
+  sdk: iphonesimulator5.1
   provisionprofile:
   codesignidentity:
   entitlements:
   BundleIdentifier: com.rhomobile.iapdemo
   BundleURLScheme: iapdemo
-wp:
+  
   productid: '0012ed80-4c98-012f-f264-70cd60f27196'
 symbian:
   uid: '0xec923168'

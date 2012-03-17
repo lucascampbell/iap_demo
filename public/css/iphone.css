@@ -348,6 +348,7 @@ div.itemValue {
 
 .ui-content {
     min-height: 480px;
+    background-image:url('/public/images/pinstripes.png');
 }
 
 .ui-header .ui-title {

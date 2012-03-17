@@ -88,7 +88,7 @@ BOOL current_transaction = NO;
     [productsRequest release];
     
     //[[NSNotificationCenter defaultCenter] postNotificationName:kInAppPurchaseManagerProductsFetchedNotification object:self userInfo:nil];
-	rho_net_request(rho_http_normalizeurl("/app/Exercise/products_callback"));
+	rho_net_request(rho_http_normalizeurl("/app/Iapr/products_callback"));
 }
 
 /************************** start of transaction functions ************************************/
@@ -188,13 +188,13 @@ BOOL current_transaction = NO;
     if (wasSuccessful)
     {
         // send out a notification that we’ve finished the transaction
-		rho_net_request(rho_http_normalizeurl("/app/Exercise/transaction_callback?status=success"));
+		rho_net_request(rho_http_normalizeurl("/app/Iapr/transaction_callback?status=success"));
         //[[NSNotificationCenter defaultCenter] postNotificationName:kInAppPurchaseManagerTransactionSucceededNotification object:self userInfo:userInfo];
     }
     else
     {
         // send out a notification for the failed transaction
-		rho_net_request(rho_http_normalizeurl("/app/Exercise/transaction_callback?status=failed"));
+		rho_net_request(rho_http_normalizeurl("/app/Iapr/transaction_callback?status=failed"));
         //[[NSNotificationCenter defaultCenter] postNotificationName:kInAppPurchaseManagerTransactionFailedNotification object:self userInfo:userInfo];
     }
 }

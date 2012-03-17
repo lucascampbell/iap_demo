@@ -38,7 +38,7 @@
                 // You can disable (with false value) or change page loading message
                 $.mobile.loadingMessage = false;
                 //$.mobile.loadingMessage = "loading"; // it is default value
-
+				$.mobile.defaultPageTransition = 'none',
                 // For documented init options look here:
                 // http://jquerymobile.com/demos/1.0.1/docs/api/globalconfig.html
 
@@ -59,7 +59,7 @@
     <% end %>
 
     <% if System::get_property('platform') == 'APPLE' %>
-        <!-- <link href="/public/css/iphone.css" type="text/css" rel="stylesheet"/> -->
+        <link href="/public/css/iphone.css" type="text/css" rel="stylesheet"/>
     <% elsif System::get_property('platform') == 'ANDROID' %>
         <link href="/public/css/android.css" type="text/css" rel="stylesheet"/>
     <% elsif is_bb6 %>
