@@ -7,7 +7,8 @@ The IAP extension is a rhodes native extension for the iphone.  It is based off 
 This short tutorial assumes you are familiar with [Rhodes Native Extensions](http://docs.rhomobile.com/rhodes/extensions#native-extensions) and have a general understanding of [SWIG](http://www.swig.org/Doc1.3/Ruby.html)
 
 My app [Fit](http://itunes.apple.com/us/app/fit/id472791337?ls=1&mt=8) by progressivefitness with this In App Purchase extension working is available on the app store now.
-[<img src="/public/images/appstore.png" alt="appsotre" />](http://itunes.apple.com/us/app/fit/id472791337?ls=1&mt=8) 
+
+[<img src="https://s3.amazonaws.com/fit_random/appstore.png" alt="appsotre" />](http://itunes.apple.com/us/app/fit/id472791337?ls=1&mt=8) 
 ##Getting Started
 
 If you don't already have an extensions directory in your Rhodes project, you can just copy the entire extensions directory to your project.
