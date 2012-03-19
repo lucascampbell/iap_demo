@@ -12,7 +12,6 @@ My app [Fit](http://itunes.apple.com/us/app/fit/id472791337?ls=1&mt=8) by progre
 If you don't already have an extensions directory in your Rhodes project, you can just copy the entire extensions directory to your project.
 
 Next you will need to add the Iap extension to your project.  You can do this in the build.yml file
-
 	:::ruby
   	extensions: ["json", "another-extension", "iap"]
 
@@ -34,13 +33,13 @@ Because StoreKit makes async calls to the app store you will need to register ca
 
 You can replace these callback urls with your own links.
 
-Iap.m
+###Iap.m
+	:::ruby
+	line 91 	rho_net_request(rho_http_normalizeurl("/app/Iapr/products_callback"));  # This is the callback after your product info is retrieved
 
-line 91 	rho_net_request(rho_http_normalizeurl("/app/Iapr/products_callback"));  # This is the callback after your product info is retrieved
+	line 191    rho_net_request(rho_http_normalizeurl("/app/Iapr/transaction_callback?status=success")); # This is the callback after transaction passing success
 
-line 191    rho_net_request(rho_http_normalizeurl("/app/Iapr/transaction_callback?status=success")); # This is the callback after transaction passing success
-
-line 197   	rho_net_request(rho_http_normalizeurl("/app/Iapr/transaction_callback?status=failed")); # This is the callback after transaction passing failure
+	line 197   	rho_net_request(rho_http_normalizeurl("/app/Iapr/transaction_callback?status=failed")); # This is the callback after transaction passing failure
 
 
 
