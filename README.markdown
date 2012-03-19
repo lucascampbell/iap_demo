@@ -12,8 +12,9 @@ My app [Fit](http://itunes.apple.com/us/app/fit/id472791337?ls=1&mt=8) by progre
 If you don't already have an extensions directory in your Rhodes project, you can just copy the entire extensions directory to your project.
 
 Next you will need to add the Iap extension to your project.  You can do this in the build.yml file
-  :::ruby
-  extensions: ["json", "another-extension", "iap"]
+
+	:::ruby
+  	extensions: ["json", "another-extension", "iap"]
 
 You will need to add the StoreKit framework to your Xcode project for the Iap extension to link successfully. You can do this by selecting your project target -> build phases -> link binary with libraries(expand this menu).  There is a plus icon that allows you to add frameworks.  Add the StoreKit.framework file.
 
