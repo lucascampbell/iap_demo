@@ -12,7 +12,7 @@ My app [Fit](http://itunes.apple.com/us/app/fit/id472791337?ls=1&mt=8) by progre
 If you don't already have an extensions directory in your Rhodes project, you can just copy the entire extensions directory to your project.
 
 Next you will need to add the Iap extension to your project.  You can do this in the build.yml file
-  ::ruby
+  :::ruby
   extensions: ["json", "another-extension", "iap"]
 
 You will need to add the StoreKit framework to your Xcode project for the Iap extension to link successfully. You can do this by selecting your project target -> build phases -> link binary with libraries(expand this menu).  There is a plus icon that allows you to add frameworks.  Add the StoreKit.framework file.
@@ -22,9 +22,10 @@ You should now be able to build your project successfully.
 I've created a class Iapr(app/Iapr/iapr.rb) where I require the Iap extension and then map most of the calls.
 
 For this sample app to work you will need to replace three things:
-	1) Your In App Purchase Product ID in Iap.m
-	2) Your BundleIdentifier in build.yml
-	3) The names and urls of the callbacks below.
+
+	* Your In App Purchase Product ID in Iap.m
+	* Your BundleIdentifier in build.yml
+	* The names and urls of the callbacks below.
 
 #Rho Callbacks
 
@@ -46,6 +47,7 @@ line 197   	rho_net_request(rho_http_normalizeurl("/app/Iapr/transaction_callbac
 ##References
 
 [Webinar on Native Extensions](http://player.vimeo.com/video/13400529?byline=0&portrait=0&color=de0909)
+
 [StoreKit Overview](http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/StoreKitGuide/APIOverview/OverviewoftheStoreKitAPI.html)
 
 ##Meta
