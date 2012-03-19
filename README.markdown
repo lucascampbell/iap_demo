@@ -8,7 +8,7 @@ This short tutorial assumes you are familiar with [Rhodes Native Extensions](htt
 
 My app [Fit](http://itunes.apple.com/us/app/fit/id472791337?ls=1&mt=8) by progressivefitness with this In App Purchase extension working is available on the app store now.
 
-[<img src="https://s3.amazonaws.com/fit_random/appstore.png" alt="appsotre" height='60' width='200' />](http://itunes.apple.com/us/app/fit/id472791337?ls=1&mt=8) 
+[<img src="https://s3.amazonaws.com/fit_random/appstore.png" alt="appsotre" height='40' width='125' />](http://itunes.apple.com/us/app/fit/id472791337?ls=1&mt=8) 
 ##Getting Started
 
 If you don't already have an extensions directory in your Rhodes project, you can just copy the entire extensions directory to your project.
